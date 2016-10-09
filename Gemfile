@@ -11,6 +11,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 
+gem 'devise'
+
 group :development, :test do
   gem 'byebug', platform: :mri
 end
